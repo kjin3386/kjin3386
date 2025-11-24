@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Eojin%20Kang&fontSize=70&fontAlignY=35&desc=Robotics%20%7C%20%20Autonomous%20Systems&descAlignY=55)
 <img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/1975dbbb-cb24-4bc8-a67c-5d3695309421" />
 
 ## 👋 About Me
