@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/1975dbbb-cb24-4bc8-a67c-5d3695309421" />
+<img width="1700" height="460" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/5188b70d-eede-4901-bea9-42768ad57f67" />
 
 ## 👋 About Me
 - 🎓 Final-year student at Sejong University (Intelligent Mechatronics)
