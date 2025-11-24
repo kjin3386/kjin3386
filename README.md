@@ -1,8 +1,8 @@
 <img width="1700" height="460" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/5188b70d-eede-4901-bea9-42768ad57f67" />
 
-## 👋 About Me
-- 🎓 Final-year student at Sejong University (Intelligent Mechatronics)
-- 🤖 Interested in Robotics, Autonomous Systems, and Sensor Fusion
+#### 👋 About Me
+##- 🎓 Final-year student at Sejong University (Intelligent Mechatronics)
+##- 🤖 Interested in Robotics, Autonomous Systems, and Sensor Fusion
 
 
 ## 🛠️ Tech Stack
