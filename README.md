@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DC&center=true&vCenter=true&width=940&lines=Eojin+Kang;Robotics+%7C+Autonomous+Systems+%7C+Sensor+Fusion" alt="Typing SVG" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Eojin%20Kang&fontSize=70&fontAlignY=35&desc=Robotics%20%7C%20%20Autonomous%20Systems&descAlignY=55)
 
 ## 👋 About Me
 - 🎓 Final-year student at Sejong University (Intelligent Mechatronics)
