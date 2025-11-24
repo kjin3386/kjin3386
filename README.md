@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=250&section=header&text=Eojin%20Kang&fontSize=70&fontAlignY=35&desc=Robotics%20%7C%20%20Autonomous%20Systems&descAlignY=55&blurSize=8&fontColor=FFFFFF&stroke=000000&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=250&section=header&text=Eojin%20Kang&fontSize=70&fontAlignY=35&desc=Robotics%20%7C%20%20Autonomous%20Systems&descAlignY=55&blurSize=8&fontColor=FFFFFF&stroke=000000&strokeWidth=1)
 
 ## 👋 About Me
 - 🎓 Final-year student at Sejong University (Intelligent Mechatronics)
